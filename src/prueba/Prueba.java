@@ -15,9 +15,7 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO c
-        ode application logic here
-                cambio
+        System.out.println("Hola");
     }
     
 }
